@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+ruby_string="ruby-1.9.3-p194"
+
+rvm use $ruby_string
